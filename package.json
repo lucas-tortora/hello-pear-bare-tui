@@ -22,7 +22,7 @@
     "bare-os": "^3.9.0",
     "bare-path": "^3.0.0",
     "bare-storage": "^1.1.0",
-    "bare-tui": "git+ssh://git@github.com:holepunchto/bare-tui.git#pre-merge",
+    "bare-tui": "^0.0.1",
     "corestore": "^7.9.2",
     "hyperswarm": "^4.17.0",
     "paparam": "^1.10.1",
